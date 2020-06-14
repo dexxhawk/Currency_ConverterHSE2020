@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="headline">Конвертировать валюту:</string>
+    <string name="button_text">Конвертировать</string>
+    <string name="hint_text">Введите значение</string>
+    <string-array name="Currencies">
+    <item>Рубль --> Доллар</item>
+    <item>Доллар --> Рубль</item>
+    <item>Рубль --> Евро</item>
+    <item>Евро --> Рубль</item>
+    <item>Рубль --> Фунт</item>
+    <item>Фунт --> Рубль</item>
+    <item>Рубль --> Гривна</item>
+    <item>Гривна --> Рубль</item>
+    <item>Рубль --> Юань</item>
+    <item>Юань --> Рубль</item>
+    </string-array>
+
+</resources>
